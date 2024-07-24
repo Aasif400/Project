@@ -1,4 +1,4 @@
-If you want to see my old project then click on GitHub link https://github.com/Aasif200 
+
 # Task Management Application
 
 ## Setup Instructions
