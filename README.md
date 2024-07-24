@@ -33,6 +33,5 @@
 ## Additional Features
 
 - Task due dates and reminders.
-- User authentication and authorization.
 - Task sorting and searching capabilities.
-- User profiles with avatars.
+
